@@ -1,37 +1,22 @@
 [
   {
-    "hora": "08:00 AM",
-    "titulo_programa": "Despertar Costero",
-    "descripcion": "Noticias y música para empezar el día con energía."
+    "hora": "Jueves 20:00hs",
+    "titulo_programa": "Gajusi Sports",
+    "descripcion": "Noticias y curiosidades del deporte, de otra manera"
   },
   {
-    "hora": "10:00 AM",
-    "titulo_programa": "Olas de Entrevistas",
-    "descripcion": "Invitados especiales y charlas sobre temas de actualidad."
+    "hora": "Viernes 22:00hs",
+    "titulo_programa": "Colga2",
+    "descripcion": "charlas, juegos, e informacion sobre el thc pegate una vuelta y pasala bien"
   },
   {
-    "hora": "12:00 PM",
-    "titulo_programa": "Sabor Local",
-    "descripcion": "Un recorrido gastronómico por los mejores platos de la región."
+    "hora": "Sabado 20:00hs",
+    "titulo_programa": "Pasa Que...",
+    "descripcion": "un programa con invitados, noticias y charlas entre amigos"
   },
   {
-    "hora": "02:00 PM",
-    "titulo_programa": "Magazine de la Tarde",
-    "descripcion": "Variedades, cultura y entretenimiento para tu siesta."
+    "hora": "A confirmar",
+    "titulo_programa": "Chicas sin filtro",
+    "descripcion": "chismes, charlas de chicas un programa empoderado"
   },
-  {
-    "hora": "04:00 PM",
-    "titulo_programa": "Deportes en la Arena",
-    "descripcion": "Todo sobre el deporte local y nacional."
-  },
-  {
-    "hora": "06:00 PM",
-    "titulo_programa": "Atardecer Musical",
-    "descripcion": "Los mejores tracks para acompañar la caída del sol."
-  },
-  {
-    "hora": "08:00 PM",
-    "titulo_programa": "Noche de Estrenos",
-    "descripcion": "Series y películas para disfrutar antes de dormir."
-  }
 ]
