@@ -1,1 +1,37 @@
-
+[
+  {
+    "hora": "08:00 AM",
+    "titulo_programa": "Despertar Costero",
+    "descripcion": "Noticias y música para empezar el día con energía."
+  },
+  {
+    "hora": "10:00 AM",
+    "titulo_programa": "Olas de Entrevistas",
+    "descripcion": "Invitados especiales y charlas sobre temas de actualidad."
+  },
+  {
+    "hora": "12:00 PM",
+    "titulo_programa": "Sabor Local",
+    "descripcion": "Un recorrido gastronómico por los mejores platos de la región."
+  },
+  {
+    "hora": "02:00 PM",
+    "titulo_programa": "Magazine de la Tarde",
+    "descripcion": "Variedades, cultura y entretenimiento para tu siesta."
+  },
+  {
+    "hora": "04:00 PM",
+    "titulo_programa": "Deportes en la Arena",
+    "descripcion": "Todo sobre el deporte local y nacional."
+  },
+  {
+    "hora": "06:00 PM",
+    "titulo_programa": "Atardecer Musical",
+    "descripcion": "Los mejores tracks para acompañar la caída del sol."
+  },
+  {
+    "hora": "08:00 PM",
+    "titulo_programa": "Noche de Estrenos",
+    "descripcion": "Series y películas para disfrutar antes de dormir."
+  }
+]
